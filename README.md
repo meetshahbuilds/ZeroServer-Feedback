@@ -35,4 +35,4 @@ Missing a tool? Want us to add a SQL Beautifier, a Hash Generator, or a Regex Te
 
 * **Website:** [ZeroServer.tools](https://zeroserver.tools)
 * **API Documentation:** [Read the Docs](https://zeroserver.tools/docs)
-* **Support the Project:** If these tools save you time, consider [buying me a coffee](https://buymeacoffee.com/yourusername) to help keep the domain running!
+* **Support the Project:** If these tools save you time, consider [buying me a coffee](https://ko-fi.com/meetshahbuilds) to help keep the domain running!
